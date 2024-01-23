@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-martel-sans: "Martel Sans";
+  --font-lucida-console: "Lucida Console";
+  --font-lalezar: Lalezar;
+
+  /* font sizes */
+  --font-size-11xl: 30px;
+  --font-size-lg: 18px;
+  --font-size-5xl: 24px;
+
+  /* Colors */
+  --color-steelblue: #395b9b;
+  --color-black: #000;
+
+  /* Gaps */
+  --gap-xl: 20px;
+
+  /* Paddings */
+  --padding-xl: 20px;
+  --padding-9xs: 4px;
+}

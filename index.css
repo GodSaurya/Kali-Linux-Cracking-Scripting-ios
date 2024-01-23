@@ -1,0 +1,297 @@
+.kali-linux-backtrack-linux-lin-icon {
+  align-self: stretch;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.notebook-kali-2022-1 {
+  width: 1134px;
+  height: 720px;
+  position: relative;
+  display: none;
+  max-width: 100%;
+}
+.image-1-icon {
+  height: 520px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  z-index: 2;
+}
+.image-1-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 41px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.ios-unlocking-scripting {
+  margin: 0;
+  height: 75px;
+  width: 955px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.ios-unlocking-scripting-tool-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: 56px;
+  color: var(--color-black);
+  font-family: var(--font-lalezar);
+}
+.prev {
+  width: 119px;
+  height: 42px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.pngwing-1-icon,
+.pngwing-5-icon {
+  height: 189px;
+  width: 187px;
+  position: relative;
+  object-fit: cover;
+}
+.pngwing-1-icon {
+  display: none;
+  min-height: 189px;
+}
+.pngwing-5-icon {
+  z-index: 1;
+}
+.rectangle-i-phone-logo {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.framei-phone-prox {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-9xs);
+}
+.iphone-11promaxscriptpy-42 {
+  width: 185px;
+  position: relative;
+  display: inline-block;
+}
+.frame-i-phone-prox {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 0 29px;
+}
+.pngwing-2-icon {
+  width: 187px;
+  height: 189px;
+  position: relative;
+  object-fit: cover;
+}
+.iphone-12miniproscriptpy-5 {
+  align-self: stretch;
+  position: relative;
+}
+.framesi-phone-components {
+  width: 187px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.pngwing-3-icon {
+  height: 189px;
+  width: 187px;
+  position: relative;
+  object-fit: cover;
+}
+.i-phone-mini-pro-script-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-9xs) 0 0;
+}
+.iphone-13miniproscriptpy-5 {
+  width: 185px;
+  position: relative;
+  display: inline-block;
+}
+.framenext-button,
+.i-phone-max-script-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.framenext-button {
+  width: 243px;
+  align-items: flex-start;
+  padding: 6px 0 0;
+  box-sizing: border-box;
+}
+.pngwing-4-icon {
+  width: 187px;
+  height: 189px;
+  position: relative;
+  object-fit: cover;
+}
+.iphone-14plus,
+.scriptpy-502 {
+  margin: 0;
+}
+.iphone-14plus-scriptpy-container {
+  align-self: stretch;
+  position: relative;
+}
+.framesi-phone-components1 {
+  width: 187px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 6px;
+}
+.frame-i-phone-mini,
+.frame-i-phone-plus {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-i-phone-plus {
+  width: 1102px;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.frame-i-phone-mini {
+  align-self: stretch;
+  justify-content: flex-end;
+  color: var(--color-black);
+  font-family: var(--font-lucida-console);
+}
+.parent-frame-i-phone,
+.rectangle-i-phone-mini {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.rectangle-i-phone-mini {
+  width: 1236px;
+  flex-direction: column;
+  gap: 80px;
+}
+.parent-frame-i-phone {
+  align-self: stretch;
+  flex-direction: row;
+  min-height: 589px;
+}
+.next {
+  width: 119px;
+  height: 42px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.desktop-1,
+.frame-i-phone-unlock {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.frame-i-phone-unlock {
+  align-self: stretch;
+  align-items: flex-end;
+  padding: 0 var(--padding-xl);
+  gap: 49px;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-steelblue);
+  font-family: var(--font-martel-sans);
+}
+.desktop-1 {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  align-items: center;
+  padding: 0 0 31px;
+  gap: 5px;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 950px) {
+  .ios-unlocking-scripting {
+    font-size: 45px;
+  }
+  .iphone-11promaxscriptpy-42,
+  .iphone-12miniproscriptpy-5,
+  .iphone-13miniproscriptpy-5,
+  .iphone-14plus-scriptpy-container,
+  .prev {
+    font-size: var(--font-size-5xl);
+  }
+  .frame-i-phone-plus {
+    flex-wrap: wrap;
+  }
+  .next {
+    font-size: var(--font-size-5xl);
+  }
+  .frame-i-phone-unlock {
+    gap: 24px;
+  }
+}
+@media screen and (max-width: 700px) {
+  .image-1-wrapper {
+    padding-bottom: 27px;
+    box-sizing: border-box;
+  }
+  .rectangle-i-phone-mini {
+    gap: 40px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .ios-unlocking-scripting {
+    font-size: 34px;
+  }
+  .iphone-11promaxscriptpy-42,
+  .iphone-12miniproscriptpy-5,
+  .iphone-13miniproscriptpy-5,
+  .iphone-14plus-scriptpy-container,
+  .prev {
+    font-size: var(--font-size-lg);
+  }
+  .rectangle-i-phone-mini {
+    gap: var(--gap-xl);
+  }
+  .next {
+    font-size: var(--font-size-lg);
+  }
+}
